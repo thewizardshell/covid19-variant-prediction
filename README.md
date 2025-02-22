@@ -18,12 +18,8 @@ Este repositorio presenta un análisis exploratorio de datos (EDA) y un modelo p
 - scikit-learn  
 
 ## ⚙️ **Instalación**  
-1. Clona el repositorio:  
+Clona el repositorio:  
    ```bash
-   git clone https://github.com/tu-usuario/covid19-variant-prediction.git
+   git clone https://github.com/thewizardshell/covid19-variant-prediction.git
    cd covid19-variant-prediction
-   ```  
-2. Instala las dependencias:  
-   ```bash
-   pip install -r requirements.txt
    ```  
